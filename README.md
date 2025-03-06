@@ -2,6 +2,7 @@
 
 # Python Code Generator with Fine-Tuned CodeLLaMA 7B
 Fine-tuned CodeLLaMA 7B in Google Colab (free tier) to generate Python code from natural language prompts. Deployed a Gradio UI for interactive demos.
+Here's the link - https://colab.research.google.com/drive/1v16m_AEcJqGlWQJIIdU2MvAeAAwLaPvB?usp=sharing
 
 ## Features
 - Fine-tuned on 5,000 CodeSearchNet examples.
