@@ -18,3 +18,6 @@ Here's the link - https://colab.research.google.com/drive/1v16m_AEcJqGlWQJIIdU2M
 - RAM crashes: Used quantization and bfloat16.
 - Tokenizer padding: Set `eos_token` as pad token.
 - Training setup: Added labels for loss computation.
+
+Output screenshot - 
+![Screenshot 2025-03-06 203754](https://github.com/user-attachments/assets/1ca468ed-28b4-4c50-aa6c-e574fcd7597a)
